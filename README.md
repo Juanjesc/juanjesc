@@ -13,8 +13,11 @@
 
 - 🎹 Fun Fact **Me gusta tocar el piano también, y aprender japonés, puedes ver mi canal en YT más abajo :)**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://www.youtube.com/channel/UCDqoInhhCGbmnarfbt1P1Pg
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
