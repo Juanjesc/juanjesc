@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en mejorar mi Portfolio [Proyecto Portfolio](https://juanjesc.netlify.app/)
 
-- 🌱 Actualmente estoy aprendiendo tecnologías como **React y mejorando mi nivel de JS**
+- 🌱 Estoy aprendiendo tecnologías como **React y mejorando mi nivel de JS**
 
 - 👨‍💻 Algunos de mis proyectos más interesantes lo puedes encontrar en mi Portfolio [https://juanjesc.netlify.app/](https://juanjesc.netlify.app/)
 
