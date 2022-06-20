@@ -9,7 +9,7 @@
 
 - 💬 Pregúntame sobre **JS, CSS, SASS, HTML, PHP, MySql**
 
-- 📫 ¿Cómo contactar conmigo? **juan97jesus@hotmail.com**
+- 📫 ¿Cómo contactar conmigo? **juandev97@gmail.com**
 
 - 🎹 Fun Fact **Me gusta tocar el piano también, y aprender japonés, puedes ver mi canal en YT más abajo :)**
 
