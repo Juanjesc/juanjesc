@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo tecnologías como **React y mejorando mi nivel de JS**
 
-- 👨‍💻 Algunos de mis proyectos más interesantes lo puedes encontrar en mi Portfolio [https://juanjesc.netlify.app/](https://juanjesc.netlify.app/)
+- 👨‍💻 Algunos de mis proyectos más interesantes lo puedes encontrar en mi Portfolio https://www.juanjesc.dev/
 
 - 💬 Pregúntame sobre **JS, CSS, SASS, HTML, PHP, MySql**
 
