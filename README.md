@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, soy Juan Jesús Sedano</h1>
 <h3 align="center">Un apasionado frontend developer y ante todo un entusiasta del mundo de la programación</h3>
 
-- 🔭 Actualmente estoy trabajando en mejorar mi Portfolio [Proyecto Portfolio](https://juanjesc.netlify.app/)
+- 🔭 Actualmente estoy buscando empleo como Desarrollador Web
 
 - 🌱 Estoy aprendiendo tecnologías como **React y mejorando mi nivel de JS**
 
