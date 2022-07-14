@@ -1,9 +1,9 @@
 <h1 align="center">Hola! 👋, soy Juan Jesús Sedano</h1>
-<h3 align="center">Un apasionado frontend developer y ante todo un entusiasta del mundo de la programación</h3>
+<h3 align="center">Frontend Developer Jr y ante todo un entusiasta del mundo de la programación</h3>
 
-- 🔭 Actualmente estoy buscando empleo como Desarrollador Web
+- 🔭 Actualmente estoy buscando empleo como Desarrollador de aplicaciones Web.
 
-- 🌱 Estoy aprendiendo tecnologías como **React y mejorando mi nivel de JS**
+- 🌱 Estoy aprendiendo tecnologías como **React.js y mejorando mi nivel de JS**
 
 - 👨‍💻 Algunos de mis proyectos más interesantes lo puedes encontrar en mi Portfolio https://www.juanjesc.dev/
 
