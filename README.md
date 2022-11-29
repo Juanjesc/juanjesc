@@ -7,7 +7,7 @@
 
 - 👨‍💻 Algunos de mis proyectos más interesantes lo puedes encontrar en mi Portfolio https://www.juanjesc.dev/
 
-- 💬 Pregúntame sobre **JS, CSS, SASS, HTML, PHP, MySql**
+- 💬 Pregúntame sobre **JS, CSS, SASS, HTML, MySql, TailwindCSS, React, Java**
 
 - 📫 ¿Cómo contactar conmigo? **juandev97@gmail.com**
 
