@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy buscando empleo como Desarrollador de aplicaciones Web.
 
-- 🌱 Estoy aprendiendo tecnologías como **React.js y mejorando mi nivel de JS**
+- 🌱 Estoy aprendiendo tecnologías como **React.js, Next, Prisma, TailwindCSS y mejorando mi nivel de JS**
 
 - 👨‍💻 Algunos de mis proyectos más interesantes lo puedes encontrar en mi Portfolio https://www.juanjesc.dev/
 
