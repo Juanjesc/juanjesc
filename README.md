@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, soy Juan Jesús Sedano</h1>
 <h3 align="center">Frontend Developer Jr y ante todo un entusiasta del mundo de la programación</h3>
 
-- 🔭 Actualmente estoy buscando empleo como Desarrollador de aplicaciones Web.
+- 🔭 Actualmente estoy formándome y trabajando como Desarrollador de aplicaciones Web Frontend en Babel.
 
 - 🌱 Estoy aprendiendo tecnologías como **React.js, Next, Prisma, TailwindCSS y mejorando mi nivel de JS**
 
